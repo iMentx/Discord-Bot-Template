@@ -39,7 +39,16 @@ node .
 
 ### Dependências
 
-
+##discord.js
+##quick.db `npm i quick.db`
+##write `npm i write`
+##jimp
+##ms
+##weather-js
+##discord-buttons
+##reconlx
+##random-puppy
+##moment
 
 ### Configuração
 
