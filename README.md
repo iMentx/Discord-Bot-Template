@@ -40,6 +40,8 @@ node .
 
 ### Dependências
 
+> Note: Abre o Terminal no Visual Studio Code e escreve os seguintes comandos:
+
 * discord.js 
 
  `npm i discord.js`
