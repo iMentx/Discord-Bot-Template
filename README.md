@@ -39,16 +39,16 @@ node .
 
 ### Dependências
 
-##discord.js
+##discord.js //npm i discord.js
 ##quick.db `npm i quick.db`
 ##write `npm i write`
-##jimp
-##ms
-##weather-js
-##discord-buttons
-##reconlx
-##random-puppy
-##moment
+##jimp //npm i jimp
+##ms  /npm i ms
+##weather-js //npm i weather-js
+##discord-buttons //npm idiscord-buttons
+##reconlx //npm i reconlx
+##random-puppy //npm i random-puppy
+##moment //npm i moment
 
 ### Configuração
 
