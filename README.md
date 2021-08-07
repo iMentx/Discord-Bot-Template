@@ -37,9 +37,9 @@ cd discord-bot/
 npm install
 ```
 
-### Configuration
+### Configuração
 
-After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
+Depois de clonar o projeto e intalar todas as dependências, você precisa de adicionar o token do seu Discord Bot no [config.json]config.json file.
 
 ### Começar o BOT
 
