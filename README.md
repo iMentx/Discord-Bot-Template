@@ -42,17 +42,23 @@ node .
 
 * discord.js 
 
-* `npm i discord.js`
+ `npm i discord.js`
 
 * quick.db 
 
-* `npm i quick.db`
+ `npm i quick.db`
 
-* write `npm i write`
+* write 
 
-* jimp `npm i jimp`
+ `npm i write`
 
-* ms  `npm i ms`
+* jimp 
+
+ `npm i jimp`
+
+* ms  
+
+ `npm i ms`
 
 * weather-js //npm i weather-js
 
