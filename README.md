@@ -62,9 +62,13 @@ node .
 
  `npm i ms`
 
-* weather-js //npm i weather-js
+* weather-js 
 
-* discord-buttons //npm idiscord-buttons
+ `npm i weather-js`
+
+* discord-buttons `
+
+ `npm idiscord-buttons`
 
 * reconlx //npm i reconlx
 
