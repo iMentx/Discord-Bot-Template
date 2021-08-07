@@ -66,15 +66,21 @@ node .
 
  `npm i weather-js`
 
-* discord-buttons `
+* discord-buttons 
 
- `npm idiscord-buttons`
+ `npm i discord-buttons`
 
-* reconlx //npm i reconlx
+* reconlx 
 
-* random-puppy //npm i random-puppy
+ `npm i reconlx`
 
-* moment //npm i moment
+* random-puppy 
+
+ `npm i random-puppy`
+
+* moment 
+
+ `npm i moment`
 
 ### Configuração
 
