@@ -9,6 +9,7 @@ Se tiveres  dúvidas sobre o bot contacte a 🐱‍👤 iMentx ™
 
 * [Requisitos](#requisitos)
 * [Começando](#começando)
+* [Dependências](#Dependências)
 * [Erros comuns](#erros-comuns)
 * [Contribuindo](#contribuindo)
 * [Autor](#autor)
