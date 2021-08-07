@@ -37,6 +37,10 @@ node .
 "npm install" ou "npm i"
 ```
 
+### Dependências
+
+
+
 ### Configuração
 
 Depois de clonar o projeto e intalar todas as dependências, você precisa de adicionar o token do seu Discord Bot no [config.json](config.json) file.
