@@ -18,7 +18,7 @@ Se tiveres  dúvidas sobre o bot contacte a 🐱‍👤 iMentx ™
 
 - [Node](https://nodejs.org/en/) // Instale clicando no link afixado
 - [NPM](https://www.npmjs.com/) // Já deve vir com a máquina 
-- discord.js // No terminal escreva - "npm i discord.js"
+- [discord.js](#Rikka) // No terminal escreva - "npm i discord.js"
 
 ## Começando
 
@@ -79,6 +79,6 @@ Você é bem-vindo para contribuir enviando uma solicitação pull para o reposi
 [🐱‍👤 iMentx ™]      real
 
 
-## License
+## Licensa
 
 Este projeto esta licensiado em MIT License - vê [LICENSE.md](LICENSE) para detalhes.
