@@ -27,14 +27,14 @@ Primeiro, certifique-se de ter todas as ferramentas necessárias instaladas em s
 ### Instalação
 
 ```bash
-# Clone the repository
+# Clona a pasta do Bot
 git clone https://github.com/iMentx/bot.git
 
-# Enter into the directory
+# Escreve dentro do terminal
 cd discord-bot/
 
-# Install the dependencies
-npm install
+# Intsala as dependências
+"npm install" ou "npm i"
 ```
 
 ### Configuração
