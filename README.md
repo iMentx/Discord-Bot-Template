@@ -18,7 +18,7 @@ Se tiveres  dúvidas sobre o bot contacte a 🐱‍👤 iMentx ™
 
 - [Node](https://nodejs.org/en/) // Instale clicando no link afixado
 - [NPM](https://www.npmjs.com/) // Já deve vir com a máquina 
-- [discord.js](No terminal escreva - "npm i discord.js") // Este requisito é obrigatória para o bot funcionar em condições
+- discord.js // No terminal escreva - "npm i discord.js
 
 ## Começando
 
