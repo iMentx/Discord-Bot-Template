@@ -41,20 +41,10 @@ npm install
 
 After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
 
-### Starting the application
+### Começar o BOT
 
 ```bash
-node index.js
-```
-
-### Starting the application using Docker
-
-```bash
-# Build the image
-docker build --tag discordbot .
-
-# Run the image
-docker run -d discordbot
+"node index.js" ou "node ." 
 ```
 
 ## Futuros & Comandos
@@ -73,12 +63,6 @@ docker run -d discordbot
 * 💿 Comando para sugerir um ideia - Para TODOS
 
 `!setsugerir`
-
-
-* Now Playing (!nowplaying)
-* Get information about a user (!userinfo)
-* Ban a player (!ban)
-* Delete the latest chat messages (!pruge)
 
 
 ## Erros comuns
