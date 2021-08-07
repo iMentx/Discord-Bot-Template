@@ -40,9 +40,13 @@ node .
 
 ### Dependências
 
-* discord.js `npm i discord.js`
+* discord.js 
 
-* quick.db `npm i quick.db`
+* `npm i discord.js`
+
+* quick.db 
+
+* `npm i quick.db`
 
 * write `npm i write`
 
