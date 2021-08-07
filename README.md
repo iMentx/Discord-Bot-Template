@@ -31,7 +31,7 @@ Primeiro, certifique-se de ter todas as ferramentas necessárias instaladas em s
 git clone https://github.com/iMentx/bot.git
 
 # Escreve dentro do terminal
-cd discord-bot/
+node .
 
 # Intsala as dependências
 "npm install" ou "npm i"
